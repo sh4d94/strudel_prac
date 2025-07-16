@@ -1,6 +1,6 @@
 {
   "_base": "https://github.com/sh4d94/strudel_prac.git",
-  "botella": "bd/BT0AADA.wav",
-  "spray": "sd/rytm-01-classic.wav",
-  "pelota": "hh27/000_hh27closedhh.wav"
+  "botella": "botella/tapa_botella_st.wav",
+  "spray": "spray/spray1_st.wav",
+  "pelota": "pelota/pelota2_st.wav"
 }
