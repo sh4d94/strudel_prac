@@ -1,5 +1,5 @@
 {
-  "_base": "https://github.com/sh4d94/strudel_prac.git",
+  "_base": "https://raw.githubusercontent/sh4d94/strudel_prac/main/",
   "botella": "botella/tapa_botella_st.wav",
   "spray": "spray/spray1_st.wav",
   "pelota": "pelota/pelota2_st.wav"
