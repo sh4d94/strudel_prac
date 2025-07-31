@@ -1,6 +1,3 @@
 {
-  "_base": "https://raw.githubusercontent/sh4d94/strudel_prac/main/",
-  "botella": "botella/tapa_botella_st.wav",
-  "spray": "spray/spray1_st.wav",
-  "pelota": "pelota/pelota2_st.wav"
+  "_base": "https://raw.githubusercontent/sh4d94/strudel_prac/main/", "botella": "botella/tapa_botella_st.wav", "spray": "spray/spray1_st.wav", "pelota": "pelota/pelota2_st.wav"
 }
